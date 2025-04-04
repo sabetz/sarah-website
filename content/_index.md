@@ -11,13 +11,12 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+    username: admin
+    text: |
+      Sarah Betz is a PhD candidate in Economics at Stony Brook University, where she joined as a fellowship student in Fall 2022. Her research interests include migration and network dynamics, with a focus on how individual decisions interact with broader economic structures. Prior to her doctoral studies, she worked in economic consulting and earned a master's degree in Economics from Rutgers University, as well as a bachelor's degree in Economics and Mathematics from UC Santa Barbara. Outside of her academic work, Sarah enjoys hiking and exploring independent bookstores.
+    button:
+      text: Download CV
+      url: uploads/resume.pdf
     design:
       css_class: dark
       background:
